@@ -14,10 +14,10 @@ Philaphonh Inthavongsa | ພິລະພົນ ອິນທະວົງສາ
 
 ## Tools I Use 🚀
 
-- Vue
+- Vue + TypeScript
 - Node.js + Express
-- Flutter (learning)
-- Go (learning)
+- Flutter
+- Go
 
 ## Favourite & Hobby 🤔
 
