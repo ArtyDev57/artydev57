@@ -6,7 +6,7 @@
 
 Philaphonh Inthavongsa | ພິລະພົນ ອິນທະວົງສາ
 
-- 👨🏻‍💻 Software developer
+- 👨🏻‍💻 Software developer at Lao IT Dev Co., Ltd
 - 👨🏻‍🎓 Student at National University of Laos
 - 🧑🏻‍🏫 IT Trainer
 - ❌Not computer repair technician
@@ -15,9 +15,10 @@ Philaphonh Inthavongsa | ພິລະພົນ ອິນທະວົງສາ
 ## Tools I Use 🚀
 
 - Vue + TypeScript
-- Node.js + Express
+- Tailwind, Bulma, Bootstrap
 - Flutter
 - Go
+- Node.js + Express
 
 ## Favourite & Hobby 🤔
 
@@ -25,4 +26,4 @@ Philaphonh Inthavongsa | ພິລະພົນ ອິນທະວົງສາ
 - 🎮 Gaming
 - 📖 Reading
 - ☕️ Coffee
-- Whatever I like
+- Whatever I like!
