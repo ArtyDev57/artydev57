@@ -8,17 +8,18 @@ Philaphonh Inthavongsa | ພິລະພົນ ອິນທະວົງສາ
 
 - 👨🏻‍💻 Software developer at Lao IT Dev Co., Ltd
 - 👨🏻‍🎓 Student at National University of Laos
-- 🧑🏻‍🏫 IT Trainer
-- ❌Not computer repair technician
+- 🧑🏻‍🏫 Volunteer IT Trainer for Project V by Mergion Co., Ltd
+- ❌ Not computer repair technician
 - 🤓 Homo Sapiens, absolutely
 
 ## Tools I Use 🚀
 
-- Vue + TypeScript
-- Tailwind, Bulma, Bootstrap
-- Flutter
-- Go
-- Node.js + Express
+- Dart: Flutter
+- JavaScript: TypeScript, Vue, Node.js, Express
+- CSS: Vuetify, Tailwind, Bulma
+- Go: Tryin' somethin' new!
+- SaaS: DigitalOcean, Firebase
+- Environment: macOS, Linux, Docker
 
 ## Favourite & Hobby 🤔
 
