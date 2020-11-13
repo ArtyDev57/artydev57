@@ -8,7 +8,6 @@ Philaphonh Inthavongsa | ພິລະພົນ ອິນທະວົງສາ
 
 - 👨🏻‍💻 Software developer at Lao IT Dev Co., Ltd
 - 👨🏻‍🎓 Student at National University of Laos
-- 🧑🏻‍🏫 Volunteer IT Trainer for Project V by Mergion Co., Ltd
 - ❌ Not computer repair technician
 - 🤓 Homo Sapiens, absolutely
 
