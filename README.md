@@ -1,18 +1,18 @@
-# Hello, friend! 🤓
+#
 
 ![hackerman](hackerman.png)
 
-## About Me 🧐
+## About Me 🚀
 
-Hello, friend! I am Arty, software developer, student, Homo sapiens.
+Hello, friend! I am Arty, programmer, student, Homo sapiens.
 
 ## Tools 🚀
 
-- JavaScript / TypeScript
-- Vue / Nuxt
-- Dart / Flutter
-- Node.js / Express
+- JavaScript
+- TypeScript
+- Vue
+- Nuxt
+- Dart
+- Flutter
+- Node.js
 - Go
-- Visual Studio Code
-- iTerm
-- UNIX-like operating systems e.g. macOS & Linux
